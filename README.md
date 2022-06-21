@@ -1,6 +1,6 @@
 # File-Uploading-Animation
 
-# Shoes-Card
+# File Uploading Animation
 
 This is a design of the Files Uploading Animation on hover effect.
 
